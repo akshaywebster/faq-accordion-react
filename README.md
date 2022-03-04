@@ -49,3 +49,9 @@ const Component = () => {
   return <FaHome className="icon"></FaHome>
 }
 ```
+
+#### Flaticon
+
+I have used Flaticon resource as my favicon.
+
+[Link](https://www.flaticon.com/free-icons/faq)
